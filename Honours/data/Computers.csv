@@ -1,0 +1,4 @@
+"price","cpu","gpu","hard drive size"
+"200","Intel","Nvidia 970","1"
+"100","AMD","Nvidia 1080","1"
+"400","Intel","Nvidia 1080ti","2"

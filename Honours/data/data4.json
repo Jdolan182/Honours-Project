@@ -1,0 +1,22 @@
+{
+		"values":[
+		{
+				"price": 10,
+				"name": "Car1",
+				"manufacturer": "Fiat",
+				"mileage": 700
+		},
+		{
+				"price": 20,
+				"name": "Car2",
+				"manufacturer": "BMW",
+				"mileage": 300
+		},
+		{
+				"price": 30,
+				"name": "Car3",
+				"manufacturer": "Mercedes",
+				"mileage": 100
+		}
+	]
+}
